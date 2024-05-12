@@ -1,0 +1,15 @@
+D:\Programation_sur_VS\CRYSTAL_GAME\bin\Debug\CRYSTAL_GAME.exe.config
+D:\Programation_sur_VS\CRYSTAL_GAME\bin\Debug\CRYSTAL_GAME.exe
+D:\Programation_sur_VS\CRYSTAL_GAME\bin\Debug\CRYSTAL_GAME.pdb
+D:\Programation_sur_VS\CRYSTAL_GAME\obj\Debug\CRYSTAL_GAME.csproj.AssemblyReference.cache
+D:\Programation_sur_VS\CRYSTAL_GAME\obj\Debug\CRYSTAL_GAME.csproj.SuggestedBindingRedirects.cache
+D:\Programation_sur_VS\CRYSTAL_GAME\obj\Debug\CRYSTAL_GAME.csproj.CoreCompileInputs.cache
+D:\Programation_sur_VS\CRYSTAL_GAME\obj\Debug\CRYSTAL_GAME.exe
+D:\Programation_sur_VS\CRYSTAL_GAME\obj\Debug\CRYSTAL_GAME.pdb
+C:\V_S\CRYSTAL_GAME\bin\Debug\CRYSTAL_GAME.exe.config
+C:\V_S\CRYSTAL_GAME\bin\Debug\CRYSTAL_GAME.exe
+C:\V_S\CRYSTAL_GAME\bin\Debug\CRYSTAL_GAME.pdb
+C:\V_S\CRYSTAL_GAME\obj\Debug\CRYSTAL_GAME.csproj.AssemblyReference.cache
+C:\V_S\CRYSTAL_GAME\obj\Debug\CRYSTAL_GAME.csproj.CoreCompileInputs.cache
+C:\V_S\CRYSTAL_GAME\obj\Debug\CRYSTAL_GAME.exe
+C:\V_S\CRYSTAL_GAME\obj\Debug\CRYSTAL_GAME.pdb
